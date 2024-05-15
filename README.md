@@ -1,5 +1,6 @@
 # Working with NoSQL Databases
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpregismond%2Fworking-with-nosql-databases&label=Visitors&countColor=%230d76a8&style=flat&labelStyle=none)
 [![License](https://img.shields.io/badge/License-Apache_2.0-0D76A8?style=flat)](https://opensource.org/licenses/Apache-2.0)
 [![Cloudant 8510](https://img.shields.io/badge/IBM_Cloudant-8510-green.svg?style=flat&logo=ibmcloud)](https://shields.io/)
 [![MongoDB 3.6.3](https://img.shields.io/badge/MongoDB-3.6.3-green.svg?style=flat&logo=mongodb&logoColor=white)](https://shields.io/)
@@ -59,7 +60,7 @@ Before proceeding, complete the steps in the [How to Create an IBM Cloudant Inst
 
 Start the MongoDB and Cassandra processes according to your environment.
 
-Begin the [Final Assignment Project](./Final_Project.md).
+Begin the [Final Assignment Project: Working with NoSQL Databases](./Final_Project.md).
 
 ## Learner
 
