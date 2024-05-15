@@ -70,7 +70,7 @@ You will be taken to the Cloudant instance page.
 
 ![11-cloudant](images/11-cloudant.png)
 
-**Step 14:** You will be using the `username`, `password` and `url` in the Final Assignment Project.
+**Step 14:** You will be using the `apikey` and `url` in the Final Assignment Project.
 
 ![12-cloudant](images/12-cloudant.png)
 
